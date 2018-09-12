@@ -88,27 +88,27 @@ function provere() {
 function levelProperties() {
     if (nivo == 1) {
         brzina = 5;
-        ucestalostEnemyAuta = 5000;
+        ucestalostEnemyAuta = 4000;
     }
     if (nivo == 2) {
         brzina = 5;
-        ucestalostEnemyAuta = 4500;
+        ucestalostEnemyAuta = 3500;
     }
     if (nivo == 3) {
         brzina = 5;
-        ucestalostEnemyAuta = 4000;
+        ucestalostEnemyAuta = 3000;
     }
     if (nivo == 4) {
         brzina = 5;
-        ucestalostEnemyAuta = 3500;
+        ucestalostEnemyAuta = 2000;
     }
     if (nivo == 5) {
         brzina = 10;
-        ucestalostEnemyAuta = 5000;
+        ucestalostEnemyAuta = 4000;
     }
     if (nivo == 6) {
         brzina = 10;
-        ucestalostEnemyAuta = 4000;
+        ucestalostEnemyAuta = 3500;
     }
     if (nivo == 7) {
         brzina = 10;
@@ -116,15 +116,15 @@ function levelProperties() {
     }
     if (nivo == 8) {
         brzina = 10;
-        ucestalostEnemyAuta = 3500;
+        ucestalostEnemyAuta = 2500;
     }
     if (nivo == 9) {
         brzina = 15;
-        ucestalostEnemyAuta = 4000;
+        ucestalostEnemyAuta = 2500;
     }
     if (nivo == 10) {
         brzina = 15;
-        ucestalostEnemyAuta = 2000;
+        ucestalostEnemyAuta = 1500;
     }
     if (nivo == 11) {
         clearInterval(igra);
